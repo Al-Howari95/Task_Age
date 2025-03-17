@@ -4,7 +4,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    background-color: #58b2df;
+    background-color: #007bff;
     margin: 0;
     flex-direction: column; 
 
@@ -30,6 +30,7 @@ button {
     color: white;
     border: none;
     cursor: pointer;
+    border-radius: 5px;
 }
 
 button:hover {
